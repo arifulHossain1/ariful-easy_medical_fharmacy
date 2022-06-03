@@ -1,1 +1,1 @@
-# ariful-easy_medical_fharmacy
+# Easy_Medical_Fharmacy
